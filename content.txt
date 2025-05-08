@@ -1,0 +1,387 @@
+1
+AN INTERIM REPORT
+ON
+Impact analysis of Shakti training given by IOCL to retail outlet team
+&
+Training on Wheels
+By
+Arundhati Kamal
+(24BSPHH01C0242)
+Submitted to
+ICFAI Business School, Hyderabad
+Name of the Organization: Indian Oil Corporation Limited
+2
+AN INTERIM REPORT
+ON
+Impact analysis of Shakti training given by IOCL to retail outlet team
+&
+Training on Wheels
+ By
+ Arundhati Kamal
+ 24BSPHH01C0242
+MASTER OF BUSINESS ADMINISTRATION
+Name of the Organisation: Indian Oil Corporation Limited
+A report submitted in partial fulfilment of the requirements of MBA
+Program of IBS Hyderabad
+Submitted to:
+Company Guide: Mrs. Divya Nagar & Mr. Shayam Chaudhury
+Faculty Guide: Mrs. Smrita Kulkarni
+Date of Submission:10thApril, 2025
+3
+ AUTHORISATION
+I, Arundhati Kamal, solemnly affirm that the project entitled " Impact analysis of Shakti
+training given by IOCL to retail outlet team" & “Training on Wheels” is my original
+work done by me during my internship at Indian Oil Corporation Limited (IOCL),
+Learning and Development Department. This report is being submitted as a part of
+my professional and academic learning process. The observations, findings, and
+conclusions outlined herein are based on actual research, data analysis, and
+personal observations accumulated during my stay. The piece is my own work and
+not previously submitted for publication or published elsewhere. Any coincidental
+resemblance to prior studies or research is not intentional. I truly thank my company
+mentor, Mrs. Divya Nagar & Mr. Shyama Charan Chaudhury, and my faculty
+guide, Mrs. Smrita Kulkarni, for the immense guidance, encouragement, and
+feedback during this research. Their expertise has largely helped to meld this study
+and make it deeper.
+Date : 10th April, 2025 Student Name : Arundhati
+Kamal
+Place: Mumbai, Maharashtra Enrolment No :
+24BSPHH01C0242
+ Session : 2024-2026
+4
+ ACKNOWLEDGEMENT
+I would also like to acknowledge ICFAI Business School for providing me with this opportunity
+to learn the practical side of life. Their educational programs have equipped me with the
+knowledge and skills necessary to thrive in a professional setting. I would like to express my
+sincere gratitude to Indian Oil Corporation Limited for providing me with the invaluable
+opportunity to embark on this enriching journey.
+I extend my heartfelt appreciation to Mrs. Divya Nagar & Mr. Shyama Charan Chaudhury, my
+company guide, whose guidance, support, and insights have been instrumental in navigating
+through the diverse projects and challenges encountered during my internship. I would also
+like to extend my thanks to Mrs. Smita Kulkarni, my faculty guide, whose wisdom,
+encouragement, and constructive feedback have been indispensable throughout this journey.
+His guidance has been pivotal in shaping my understanding and approach towards the
+assigned tasks.
+Furthermore, I extend my gratitude to Mrs. Sabitha Natraj, the Head of the retail department
+in Mumbai, for her visionary leadership and unwavering support throughout my internship. I
+also want to express my sincere thanks to Mr. Radha Mohan Chebolu, Officer HR and
+Administration, for his constant support and assistance at every step of my journey.
+Additionally, I extend my appreciation to all the members of Indian Oil Corporation Limited
+for creating a nurturing and collaborative environment that facilitated my learning and
+growth. Finally, I would like to acknowledge the unwavering support of my family and
+friends, whose encouragement and belief in my abilities have been a constant source of
+strength throughout this journey.
+Arundhati Kamal
+5
+Table of Contents
+Sr. No. Chapter Pg. No.
+Authorization 3
+Acknowledgment 4
+Abstract 6
+1. Introduction 7-8
+2. Company’s Profile
+2.1 Introduction to Company’s sector 10
+2.2 Sector Classification 12
+2.3 Sector Outlook 12
+3. Introduction to the company
+3.1 About the firm 15
+3.2 Marketing HO Structure 15
+4. Capitalization process
+4.1 Introduction 16
+4.2 Capitalization process at IOCL 17
+5. References 26
+6
+ABSTRACT
+This interim report entitled "Impact analysis of Shakti training given by IOCL to retail outlet
+team" & “Training on Wheels” encapsulates the observations from a 3-month internship in
+the Learning and Development function of Indian Oil Corporation Limited (IOCL). The report
+emphasizes the activities and contributions during the internship, with particular reference to
+the Impact analysis of training given by IOCL to retail sales team and the quality assessment
+of trainers that were hired by IOCL. It explores the different challenges of the organization in
+terms of employee training and their development. By analysing the impact and alignment of
+training programs with business objectives, the report highlights the driving factors affecting
+leadership development at IOCL. The review of the programs reveals insights into the ROI of
+training programs, providing suggestions to enhance future learning initiatives. The study is
+intended to help in the optimization of HR training programs for enhanced support towards
+development of employees and external trainers within IOCL.
+7
+ INTRODUCTION
+This project titled "Impact analysis of training given by IOCL to retail sales team"
+& “Training on Wheels” is part of my 3-month internship in the Learning and Development
+Department at Indian Oil Corporation Limited (IOCL). During my time as an intern, I had the
+opportunity to gain a deeper understanding of the processes related to training and
+development within the organization. The purpose of this interim report is to examine the
+effectiveness of the training given by IOCL to retail sales team for the 2023-2024 batch, with
+a focus on its impact as face of Indian Oil and the return on investment (ROI) in terms of
+employee performance, engagement, and retention.
+IOCL, as a leading organization in the energy sector, relies heavily on its workforce’s
+competency and leadership skills to maintain its competitive edge. In this context, effective
+training programs, such as Shakti, play a critical role in shaping women empowerment and
+ensuring the long-term success of the company. By analysing the outcomes of the Shakti
+program, this report seeks to identify both the successes and challenges faced in the training
+process, particularly in terms of its ROI and leadership development impact.
+During the internship, I was able to observe the challenges faced by IOCL in aligning training
+objectives with organizational goals, while also assessing the improvement in development
+capabilities post-training. Through data collection via survey, participant feedback, and
+discussions with the HR team, I have gathered key insights on how training programs like
+SHAKTI contribute to Employee development, while also identifying areas for enhancement.
+The findings presented in this report aim to help IOCL optimize its training strategies to better
+support employee development, employee engagement, and talent retention.
+The objectives of this report are as follows:
+To evaluate the effectiveness of the SHAKTI program for employee’s development.
+To assess the ROI of the program in terms of employee performance.
+8
+To identify areas for improvement in the training process to enhance its alignment with
+organizational goals and women empowerment.
+To ensure that the recommendations contribute to IOCL’s long-term organizational objectives
+and operational efficiency.
+Limitations of the Study
+Limited Access to Confidential Data
+Because of data privacy and internal policy limitations, complete access to employee tax
+records and payroll files were restricted, which limited the extent of analysis for some cases
+(particularly foreign salary elements and reimbursements).
+Time Constraints
+The internship period was short, only a few months, limiting the scope for long-term
+monitoring, recommendation implementation, or extensive trend analysis over several
+financial years.
+Limited System Permissions
+SAP and payroll modules were available for read-only or limited write access, hindering
+hands-on entries for certain financial transactions and necessitating reliance on the finance
+team for inputs and checks.
+Variations at Regional Level Policies
+State-wise differences in Professional Tax regulations and LTA policies presented issues in
+compliance checks and inter-regional comparison standardization.
+9
+Oil & Gas Industry Analysis
+Indian Oil Corporation Limited (IOCL) is India’s leading state-owned oil and gas
+company, playing a crucial role in refining, pipeline transportation, and marketing
+petroleum products. With an extensive network of refineries, pipelines, and fuel
+stations across the country, it ensures a steady supply of energy to industries and
+consumers. The company is also expanding into renewable energy and sustainable
+fuel solutions, aligning with India's clean energy goals.
+Additionally, IOCL has a strong international presence, exporting petroleum products
+to
+various global markets. As a key player in the energy sector, it actively supports
+government
+initiatives aimed at energy security and self-reliance. Through innovation and
+infrastructure
+development, Indian Oil continues to drive the nation's progress in the energy domain.
+As a leading integrated energy company, Indian Oil operates across the entire
+hydrocarbon
+value chain, including refining, pipeline transportation, marketing, oil and gas
+exploration and
+production, petrochemicals, and alternative energy. Catering to a vast customer base,
+the
+company ensures the distribution of essential petroleum products throughout India.
+With over 61,000 customer touchpoints, Indian Oil successfully navigates challenging
+terrains and remote areas to maintain a seamless supply network.
+The Indian oil and industry sector plays a vital role in the nation's economic structure.
+To meet
+the growing demand, the government has implemented various policies, allowing
+100%
+foreign direct investment (FDI) in several segments, including natural gas, petroleum
+products, and refineries. Additionally, the FDI cap for public sector refining projects
+has been raised to 49% without requiring disinvestment or dilution of domestic equity
+in existing public sector units (PSUs). This sector continues to attract both domestic
+and international investments, with major players like Reliance Industries Ltd (RIL) and
+Cairn India operating in the market. By 2022, the industry was projected to receive an
+investment of US$ 25 billion in exploration and production. India, already established
+as a refining hub with 23 refineries, is planning further
+expansion to draw foreign investment in export-oriented infrastructure, such as product
+10
+pipelines and export terminals. Over the past five years, the sector has witnessed significant
+growth, fuelled by rising demand, policy reforms, and technological advancements.
+1. Indian Oil, a Maharatna company under GoI control (51.50%), has governmentnominated directors on its board and contributed INR 2,416 billion to the exchequer in
+FY24.
+2. Indian Oil operates 11 refineries with a total capacity of 80.80 MMTPA, accounting for
+31% of India’s domestic refining capacity.
+3. Operates a pipeline network of approximately 18,400 km for crude oil and petroleum
+products, with a total capacity of 124.4 MMTPA, holding a 62% share in the
+downstream pipeline sector by length.
+4. Indian Oil held a 42% market share in POL in FY24, operating over 60,900 touchpoints,
+and recorded its highest-ever profit of ₹39,619 crore, maintaining a leading position
+across its portfolio.
+5. The second-largest domestic player in petrochemicals with a capacity of ~4.4 MMTPA
+and has a strong presence in exploration & production (E&P) with 15 domestic and 11
+overseas blocks.
+11
+6. IndianOil holds 1,636 effective patents as of 31.03.2024 and is actively focused on
+alternative and renewable energy, including hydrogen, biofuels, and compressed biogas
+(CBG).
+7. Demonstrated consistent growth, with a revenue Compound Annual Growth Rate of
+6.59% from FY14 to FY24.
+214 194 204 222 233 239
+12
+Within this expansive sector, Indian Oil Corporation Limited (IOCL) emerges as a pivotal
+player, epitomizing excellence in oil refining, distribution, and allied services.
+ABOUT THE COMPANY
+Industry Overview:
+Indian Oil Corporation Limited (IOCL) deals in the strategic oil and gas industry, which is the
+backbone of India's economy. The industry is playing a pivotal role in providing the
+country with energy security and generating employment for millions of individuals directly
+and indirectly. As the government has permitted 100% FDI in some sub-sectors
+and promoted investment, this industry is witnessing quick growth and transformation.
+Company Scope and Reach:
+13
+IOCL is India's largest government-run oil and gas corporation, dealing in:
+1. Refining, pipeline transportation, fuel marketing, and oil exploration
+2. Now venturing into renewable energy and sustainable fuel options
+3. It has 23 refineries, with more than 61,000 customer touchpoints spread all
+over the country, including inaccessible and remote regions
+4. It also has an expanding international footprint, exporting petroleum products
+to overseas markets
+HR Perspective – Internal Outlook:
+Workforce Diversity & Deployment
+With pan-India operations, IOCL has a heterogeneous and geographically dispersed
+workforce.
+Employees work across a variety of environments – corporate offices to fuel stations in rural
+or off-shore locations. This requires location-based HR policies, logistics planning, and flexible
+work models
+Recruitment & Talent Development:
+With new sectors such as renewable energy emerging, there is an increasing demand for newage skills and competencies. IOCL regularly organizes training programs, leadership
+development workshops, and skill development initiatives to ensure a future-capable
+workforce.
+Employee Welfare & Engagement:
+Being a Public Sector Undertaking (PSU), IOCL offers robust employee benefits such as:
+1. Job security
+2. Housing facilities
+3. Medical coverages
+4. Retirement benefits
+5. Opportunities for career growth
+It has clear promotion systems and functioning grievance redressal mechanisms, ensuring
+trust and motivation
+Digital Transformation in HR:
+14
+The firm is embracing digital tools in HR management, including:
+1. E-learning platforms
+2. Online leave and attendance systems
+3. Automated performance management software
+They enhance efficiency, transparency, and employee satisfaction
+Change Management & Future Preparedness:
+During IOCL's shift from traditional fuels to clean and green fuel, HR plays a significant part in:
+1. Upskilling and reskilling employees
+2. Enabling cross-functional job assignments
+3. Building a culture of agility and innovation
+4. Handling change successfully will be crucial to success in the long run
+Recap
+Indian Oil is not only a top energy organization but also a forward-thinking employer.
+It provides secure careers, comprehensive growth prospects, and an encouraging work
+environment. From the HR point of view, the emphasis is on:
+1. Talent development
+2. Workforce planning
+3. Digital transformation
+Building a future-ready, inclusive, and driven organization
+Internship Study
+1.⁠ ⁠Introduction
+15
+This is an interim report that captures the work done and experience gained over my
+internship stint at Indian Oil Corporation Ltd (IOCL), a leading India public sector undertaking
+and a Fortune 500 firm. As a Marketing Division intern, I have been able to contribute to two
+significant projects:
+Impact Analysis of Training Provided to the Retail Sales Team, and "Training on Wheels", a
+mobile outreach initiative to enhance accessibility and inclusiveness in worker learning.
+The internship has provided useful exposure to training evaluation techniques, event
+planning, data analysis, and internal outreach activities in IOCL's wide retail network.
+2.⁠ ⁠Project Objectives
+The primary objectives of my internship project are:
+To assess the effectiveness and reach of training programs conducted among Customer
+Attendants (CAs) and RO Managers.
+To evaluate the feedback given by the participants of training and ascertain the influence of
+training on their ground-level performance.
+To research the adoption and reach of the "Training on Wheels" program, and determine the
+ways to improve its effectiveness.
+To help design, document, and report on events and training sessions.
+16
+To realize the overall position of learning & development in a corporate environment,
+particularly in a PSU such as IOCL.
+3.⁠ ⁠Description of Work Done
+3.1 Onboarding and Familiarization with IOCL's Hierarchy
+Read through IOCL's recent Annual Report and internal reports to develop a macro-level
+perspective of the company's vision, organizational structure, and strategic plans.
+Understood how different departments work, particularly with respect to retail operations,
+customer care, and community initiatives.
+3.2 Contribution to Training Data Management
+Developed digital attendance reports from physical records of training sessions held across
+various districts (Bharuch, Kamrej, Surat, Gandhidham, etc.).
+Translated photographic information into organized Excel/Word tables for incorporation into
+the centralized reporting system.
+Ensured accuracy and consistency in managing critical data for over 60+ training sessions and
+various retail stores.
+3.3 Post-training Feedback and Impact Analysis
+Administered post-training feedback surveys and follow-up calls to program participants in
+programs such as Shakti and Training on Wheels.
+17
+Reviewed participant feedback to determine key learnings, effectiveness of training content,
+and areas for enhancement.
+Emphasized changes in behavior seen at stores after training, such as improved customer
+interaction, hygiene, and use of digital resources.
+3.4 Event Planning and Community Involvement
+Attended the Women's Day Ceremony, where I assisted with coordination, timetabling, and
+volunteer management.
+Assisted with a Library-based Treasure Hunt event for employee engagement and promoting
+reading habits. I assisted in creating clues, led participants, and facilitated smooth running.
+Assisted in coordinating community awareness events, ensuring the venue was set up,
+participants had proper materials, and presentations were run smoothly.
+3.5 Communication & Content Creation
+Developed posters and presentation material using software such as Canva to visually
+enhance IOCL's internal communications.
+Developed thumbnails for 81 Sampark community videos, coordinating visual elements with
+IOCL's brand identity and maintaining consistency in public-facing content.
+Helped prepare PowerPoint presentations and brochures for events and training sessions.
+18
+3.6 Management of Confidential Projects
+Assigned to develop promotion lists for various zones such as Northeast India, on the basis of
+confidential training performance figures and internal reports.
+Ensured data protection and professional conduct while dealing with sensitive employee data.
+4.⁠ ⁠Project: Training on Wheels
+The Training on Wheels programme is a learning-on-wheels programme intended to take skill
+development to the doorstep of distant retail outlets. It was noted that:
+This project substantially increased training attendance by rural CAs.
+Field demonstrations raised participation and follow-up of safety and operating procedures.
+Logistical issues were experienced in respect of equipment and trainers' availability, which I
+captured through my feedback reports as part of my documentation.
+5.⁠ ⁠Project: Effect Analysis of Retail Training
+I did the following as part of this project:
+I assessed employee conduct and customer service levels after the training.
+19
+Survey returns indicated enhanced product knowledge, electronic billing, communication,
+and personal hygiene among certified CAs.
+Certain tasks such as emergency response training and electronic payment resolution
+troubleshooting were identified for improvement.
+6.⁠ ⁠Skills and Knowledge Acquired
+Professional Skills:
+Handling & analyzing data (Excel, Google Forms, Sheets)
+Event planning & coordination
+Communication & collecting feedback
+Documenting and reporting
+Soft Skills:
+Time management and task identification
+Collaboration in large-scale operations by team members
+Independent handling of responsibilities
+Professional communication with multi-stakeholder communities
+20
+7.⁠ ⁠Challenges Encountered
+Processing large amounts of paper-based training data and digitizing them in an effective
+manner.
+Processing follow-up calls and capturing meaningful insights from oral feedback.
+Managing time between documentation, event management, and analysis work.
+8.⁠ ⁠Recommendations (Ongoing Observations)
+Include digital attendance and feedback tools during training to reduce reporting complexity.
+Implement short, interactive videos or e-learning modules as follow-ups for in-person training.
+Increase Training on Wheels coverage to reach more remote locations on a regular basis, with
+bilingual training materials.
+9.⁠ ⁠Conclusion and Way Forward
+To date, my internship with IOCL has been highly rewarding and insightful. It has offered me a
+platform on which I am able to make theoretical learning possible in the context of actual life,
+particularly on HR, assessment of training impacts, and corporate communication. I am
+excited at the prospect of fulfilling the concluding part of the internship through an elaborate
+impact report and contribution toward current training schemes.
+Lastly, I will concentrate on refining the structure and presentation of the report—to the
+21
+highest academic submission and corporate review expectations. This involves proper
+proofreading, formatting, compliance with company confidentiality policies, and the
+production of a sharp executive summary that captures the essence of my internship
+experience.
+This final phase will not only serve as the completion of my internship project but also
+provide a platform to translate experience into organized knowledge—serving both my own
+development and the company's objective of optimizing the HR process.
+22
